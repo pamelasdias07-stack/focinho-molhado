@@ -41,6 +41,4 @@ projeto-caramelo/
 
 Abra o arquivo `index.html` no navegador ou acesse a versão publicada no GitHub Pages.
 
-## Autoria
 
-Érica Esther Santos Santana
